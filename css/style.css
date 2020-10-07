@@ -1,0 +1,144 @@
+/*** Tipografía/Fuente ***/
+html{
+    font-size: 100%;
+}
+ *{
+    font-family: 'Open Sans', sans-serif;
+} 
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+h2{
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.7;
+}
+
+/* Fondo Colores */
+
+body{
+    background: #dfdfdf;
+}
+footer{
+    background: #bebebe;
+}
+
+/*** Header ***/
+header li a {
+    text-decoration: none;
+}
+
+/*** Home ***/
+.tituloHome {
+    color: #999;
+    text-align: center;
+    font-style: italic;
+}
+
+
+/*** Discografía ***/
+.discos{
+    text-align: center;
+}
+
+.discografiaDavidBowie{
+    color: #005a0f;
+}
+
+.discografiaSpaceOddity{
+    color: #0069af;
+}
+
+.discografiaTheManWhoSoldTheWorld{
+    color: #950000;
+}
+
+.discografiaHunkyDory{
+    color: #a1a327;
+}
+
+.discografiaZiggyStardust{
+    color: #fdd158;
+}
+/*** Historia ***/
+.primerParrafoHistoria{
+    color:#005a0f;
+}        
+
+.segundoParrafoHistoria{
+    color: #fdd158;
+}
+
+/*** Makeup ***/
+
+.tituloMakeUp{
+    color: #888888;
+    text-align: center;
+}
+
+.makeupZiggy{
+    color: rgb(223, 45, 131);
+}
+
+.makeupAladdin{
+    color: rgb(226, 73, 75);
+}
+
+.makeupScaryMonsters{
+    color: rgb(165, 168, 178);
+}
+
+.makeupLabyrinth{
+    color: rgb(146, 96, 71);
+}
+
+.makeupHunkyDory{
+    color: rgb(186, 212, 229);
+}
+
+/*** Vestimentas ***/
+
+.tituloVestimenta{
+    font-style: italic;
+    text-align: center;
+}
+
+.vestimentas h1{
+    color: #505050;
+}
+
+.vestimentasHunkyDory{
+    color: rgb(186, 212, 229);
+}
+
+.vestimentasZiggy{
+    color: rgb(215, 50, 44);
+}
+
+.vestimentasDiamondDogs{
+    color: rgb(50, 100, 187);
+}
+
+.vestimentasStationToStation{
+    color: #888888;
+}
+
+.vestimentasUnionJacket{
+    color: rgb(180, 1, 20);
+}
+
+/*** Contacto ***/
+
+.tituloContacto{
+    font-style: italic;
+    text-align: center;
+}
